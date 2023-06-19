@@ -595,6 +595,9 @@
             .right {
                 display: none !important;
             }
+                .storys {
+                display: none;
+            }
         }
         
         @media(max-width:573px) {
